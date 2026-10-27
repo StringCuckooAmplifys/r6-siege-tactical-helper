@@ -1,6 +1,7 @@
 <div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d63f38e-1717-46e9-8648-5916f2e36957" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=50&pause=450&color=455A64&center=true&vCenter=true&width=1200&height=140&lines=RAINBOW+SIX+SIEGE+HACK+2026;ESP+%7C+AIMBOT+%7C+NO+RECOIL;DOMINATE+THE SIEGE" alt="Rainbow Six Siege Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db563009-b18a-4634-b4ba-6b6650ca15ee" />
 
 <br/>
 
